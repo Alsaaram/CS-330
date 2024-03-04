@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(138,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(247,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(248,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(252,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(253,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(255,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(256,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Source.cpp(266,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS-330 Final.vcxproj -> C:\Users\saram\OneDrive\Desktop\CS- 330\CS-330 Final\Debug\CS-330 Final.exe
